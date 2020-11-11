@@ -144,6 +144,11 @@ hr {
     align-items: center;
 }
 
+.bg-green-img {
+    border-style: none;
+    margin-right: 26px;
+}
+
 .bg-green-item {
     flex: 0 0 60%;
 }
